@@ -57,3 +57,9 @@ if s >= 0.8 and s < 0.9:
     print('B')
 if s >= 0.9:
     print('A')
+
+  
+    
+double s = 0.85;
+if( s = 0.85) system.out.print("A");
+
