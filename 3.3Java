@@ -1,0 +1,14 @@
+double s = 0.85;
+
+if ( s < 0.6 ){
+  system.out.print("F");
+}else if ( S >= 0.6 && s < 0.7){
+  system.out.print("D");
+  }else if ( s >= 0.7 && s <0.8){
+    system.out.print("C");
+    }else if( s >= 0.8 && s <0.9){
+    system.out.print("B");
+    }else{
+    system.out.print("A");
+    }
+    
