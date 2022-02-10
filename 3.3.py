@@ -60,6 +60,3 @@ if s >= 0.9:
 
   
     
-double s = 0.85;
-if( s = 0.85) system.out.print("A");
-
