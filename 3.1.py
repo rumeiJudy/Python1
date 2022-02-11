@@ -6,7 +6,7 @@ You should use input to read a string and float(
 '''
 
 
-# Way 1
+# A 1
 hrs = input("Hours:")
 h = float(hrs)
 
@@ -17,7 +17,7 @@ if h <= 40:
 else:
     print((40*r)+(h - 40)*1.5*r)
 
-# Way 2
+# A 2
 hrs = input("Hours:")
 h = float(hrs)
 
@@ -30,7 +30,7 @@ if h > 40:
     print( 40 * r + (h - 40) * r * 1.5)
 
 
-# Way 3
+# A 3
 hrs = input("Hours:")
 h = float(hrs)
 
